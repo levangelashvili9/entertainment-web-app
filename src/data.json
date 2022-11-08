@@ -173,9 +173,9 @@
     "title": "Autosport the Series",
     "thumbnail": {
       "regular": {
-        "small": "/assets/thumbnail/autosport-the-series/regular/small.jpg",
-        "medium": "/assets/thumbnail/autosport-the-series/regular/medium.jpg",
-        "large": "/assets/thumbnail/autosport-the-series/regular/large.jpg"
+        "small": "/assets/thumbnails/autosport-the-series/regular/small.jpg",
+        "medium": "/assets/thumbnails/autosport-the-series/regular/medium.jpg",
+        "large": "/assets/thumbnails/autosport-the-series/regular/large.jpg"
       }
     },
     "year": 2016,
@@ -383,9 +383,9 @@
     "title": "Asia in 24 Days",
     "thumbnail": {
       "regular": {
-        "small": "/assets/thumbnail/asia-in-24-days/regular/small.jpg",
-        "medium": "/assets/thumbnail/asia-in-24-days/regular/medium.jpg",
-        "large": "/assets/thumbnail/asia-in-24-days/regular/large.jpg"
+        "small": "/assets/thumbnails/asia-in-24-days/regular/small.jpg",
+        "medium": "/assets/thumbnails/asia-in-24-days/regular/medium.jpg",
+        "large": "/assets/thumbnails/asia-in-24-days/regular/large.jpg"
       }
     },
     "year": 2020,
