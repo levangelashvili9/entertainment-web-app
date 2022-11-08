@@ -109,6 +109,7 @@ const Img = styled.img`
   height: 100%;
   border-radius: 8px;
   margin-bottom: 4px;
+  transition: all 0.3s;
 `;
 
 const Play = styled.div`
@@ -170,6 +171,10 @@ const Bookmark = styled.div`
   border: none;
   background: rgb(16, 20, 30, 0.5);
   cursor: pointer;
+
+  &:hover {
+    opacity: 0.5;
+  }
 
   @media screen and (min-width: 768px) {
     right: 16px;
